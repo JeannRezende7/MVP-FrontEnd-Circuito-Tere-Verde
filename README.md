@@ -22,7 +22,7 @@ Descrição do MVP:
 Técnologias utilizadas:
 - HTML,CSS,JSS e Bootstrap.
   
-Para executar o projeto é necessário somente baixar o arquivo completo e abrir o index.html, login admin e senha admin para área de administrador.
+Para executar o projeto é necessário somente baixar o arquivo completo e abrir o index.html, login "admin" e senha "admin" para área de administrador.
 
 ----------------------------------------------------------
 Requisitos Funcionais: 
