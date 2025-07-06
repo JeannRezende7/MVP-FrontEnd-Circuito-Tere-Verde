@@ -1,32 +1,19 @@
 ![image](https://github.com/user-attachments/assets/9f633d60-c114-4a47-bda5-1d22d7139f7c)
 
 Integrantes:
-- Jeann Rezende de Jesus 
+- Jeann Rezende de Jesus
+  
 Situação-problema:
 - Circuito Terê Verde
+  
 Descrição do MVP:
 - O MVP “Terê Verde Online” é uma plataforma web simples e intuitiva que oferece aos visitantes informações atualizadas sobre trilhas, cachoeiras e eventos na região de Teresópolis. Inclui uma área administrativa com login para que gestores possam cadastrar e gerenciar eventos de forma dinâmica, garantindo que os turistas tenham acesso rápido e confiável às atrações naturais da cidade. O sistema prioriza uma interface amigável, desempenho eficiente e segurança básica na administração dos conteúdos.
-Técnologias utilizadas: 
+
+Técnologias utilizadas:
 - HTML,CSS,JSS e Bootstrap.
-Para testar o projeto baixar o arquivo completo e abrir o index.html.
+  
+Para executar o projeto é necessário somente baixar o arquivo completo e abrir o index.html, login admin e senha admin para área de administrador.
 
-----------------------------------------------------------
-Escopo:
-Desenvolvimento de backend e banco de dados real para armazenamento centralizado.
-
-Sistema completo de autenticação e gerenciamento de usuários com múltiplos níveis de permissão.
-
-Cadastro e edição de trilhas, cachoeiras ou outras atrações pelo administrador (além dos eventos).
-
-Integração com mapas interativos, GPS ou localização em tempo real.
-
-Integração com redes sociais ou funcionalidades de compartilhamento.
-
-Notificações automáticas ou alertas para os usuários.
-
-Multi-idioma ou suporte a idiomas diferentes do português.
-
-Funcionalidades offline avançadas (app progressivo ou similar).
 ----------------------------------------------------------
 Requisitos Funcionais: 
 Consulta de Trilhas:
@@ -60,3 +47,18 @@ Garantir segurança básica da área administrativa, protegendo os dados pessoai
 
 Manutenibilidade:
 Código organizado e modular para facilitar futuras alterações e expansão das funcionalidades.
+----------------------------------------------------------
+Escopo:
+Desenvolvimento de backend e banco de dados real para armazenamento centralizado.
+
+Sistema completo de autenticação e gerenciamento de usuários com múltiplos níveis de permissão.
+
+Cadastro e edição de trilhas, cachoeiras ou outras atrações pelo administrador (além dos eventos).
+
+Integração com mapas interativos, GPS ou localização em tempo real.
+
+Integração com redes sociais ou funcionalidades de compartilhamento.
+
+Notificações automáticas ou alertas para os usuários.
+
+Multi-idioma ou suporte a idiomas diferentes do português.
