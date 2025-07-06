@@ -4,7 +4,7 @@ Breve resumo:
 
 - O protejo basicamente utiliza o basico de front-end, html css e js, também utilizei boostrap como framework.
   
-- A página tem uma interface amigavel, adicionei 3 seções que são : trilhas,cachoeiras e eventos, cada trilha e cachoeira tem uma descrição do local com carrosel de imagens, os eventos são controlados pelo login de administrador.
+- A página tem uma interface amigavel, adicionei 3 seções que são : Trilhas,cachoeiras e eventos, cada trilha e cachoeira tem uma descrição do local com carrosel de imagens, os eventos são controlados pelo login de administrador.
 
 Preview:
 
