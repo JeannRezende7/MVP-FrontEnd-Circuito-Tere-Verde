@@ -57,6 +57,7 @@ Garantir segurança básica da área administrativa, protegendo os dados pessoai
 
 Manutenibilidade:
 Código organizado e modular para facilitar futuras alterações e expansão das funcionalidades.
+
 ----------------------------------------------------------
 Escopo:
 Desenvolvimento de backend e banco de dados real para armazenamento centralizado.
