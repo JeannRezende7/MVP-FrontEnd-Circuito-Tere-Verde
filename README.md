@@ -1,3 +1,8 @@
+Olá professor, peço desculpa pois não consegui realizar a apresentação online, minha filha acabou de nascer e ficou bem corrido.
+Breve resumo:
+O protejo basicamente utiliza o basico de front end, html css e js, também utilizei boostrap como framework.
+A página tem uma interface amigavel, adicionei 3 seções que são : trilhas,cachoeiras e eventos, cada trilha e cachoeira tem uma descrição do local com carrosel de imagens, os eventos são controlados pelo login de administrador.
+
 ![image](https://github.com/user-attachments/assets/9f633d60-c114-4a47-bda5-1d22d7139f7c)
 
 Integrantes:
